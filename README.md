@@ -168,7 +168,7 @@ The sidebar includes the following pages:
 Install PostgreSQL locally and create a database:
 
 ```sql
-CREATE DATABASE sales_dashboard;
+CREATE DATABASE mini_project;
 ```
 
 ### Step 2: Run SQL Script
